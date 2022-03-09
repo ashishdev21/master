@@ -7,16 +7,9 @@
     "start": "node ./server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Arihantjain1/registration_with_email_verification.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Arihantjain1/registration_with_email_verification/issues"
-  },
-  "homepage": "https://github.com/Arihantjain1/registration_with_email_verification#readme",
+
   "dependencies": {
     "ajv": "^6.10.0",
     "ajv-errors": "^1.0.1",

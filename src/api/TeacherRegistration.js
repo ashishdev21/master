@@ -18,7 +18,7 @@ var getReturnValidateSchema = function (request, schema, callback) {
 }
 
 
-class registerUser {
+class registerTeacher {
 
     constructor(body, headers) {
         this.body = body;
@@ -104,4 +104,4 @@ class registerUser {
     }
 }
 
-module.exports = registerUser;
+module.exports = registerTeacher;

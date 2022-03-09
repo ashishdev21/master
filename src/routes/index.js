@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-const userController = require('../api/registration');
+const userController = require('../api/TeacherRegistration');
 const verifcationController = require('../api/verification');
 const addclass = require('../api/addClass');
 

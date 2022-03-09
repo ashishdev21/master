@@ -1,6 +1,4 @@
-/**
-* @Developed by @ArihantBhugari
-*/
+
 
 
 class mongoQuery {

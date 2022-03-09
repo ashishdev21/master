@@ -1,5 +1,3 @@
-var Transporter = require('../../config/mail');
-var keys = require('../../config/keys');
 const nodemailer = require('nodemailer');
 
 class sendEmail {
